@@ -10,6 +10,9 @@ A web discussion forum Studybuddy will provide a platform form for the learners 
 ![image](https://user-images.githubusercontent.com/96885144/230780604-cb0b0f15-5ac2-40af-95a2-ce882fa3b03e.png)
 ![image](https://user-images.githubusercontent.com/96885144/230780744-e9fb841c-d437-4108-bead-1046a9fdff35.png)
 ![image](https://user-images.githubusercontent.com/96885144/230780776-3dcb8fb2-be8d-4283-b4fe-858acf6a0b60.png)
+![image](https://user-images.githubusercontent.com/96885144/230781045-6f2ce20c-cfbe-4cac-816f-2c136bf63bd0.png)
+
+
 
 
 
