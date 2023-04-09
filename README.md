@@ -5,6 +5,9 @@ A web discussion forum Studybuddy will provide a platform form for the learners 
 ![image](https://user-images.githubusercontent.com/96885144/230643725-67f72f0f-bc54-468e-b68a-89d1d00354c7.png)
 ![image](https://user-images.githubusercontent.com/96885144/230643783-efdb92f4-20c7-49d2-a256-63ccba42d437.png)
 ![image](https://user-images.githubusercontent.com/96885144/230643814-ea6e161a-d702-4c0f-aa2b-4e763deee46c.png)
+![image](https://user-images.githubusercontent.com/96885144/230780403-cfb69580-720f-4235-86fd-ff72dbf0335b.png)
+![image](https://user-images.githubusercontent.com/96885144/230780437-9c5cd6e1-1df4-408f-9d3f-0bc26f6ef660.png)
+
 
 
 Step to run : 
